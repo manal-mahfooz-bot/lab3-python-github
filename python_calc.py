@@ -52,7 +52,7 @@ while True:
 
     #Exit the program
     if choice == "7":
-        print("Thank you for using the calculator!")
+        print("Thank you for using the calculator! You have successfully exited.")
         break
 
     #Addition
